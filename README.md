@@ -1,1 +1,2 @@
 # lc
+Education demo site
